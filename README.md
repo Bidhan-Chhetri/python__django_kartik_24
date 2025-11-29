@@ -1,1 +1,1 @@
-# python__django_kartik_24
+This is a python django practice git repo 
